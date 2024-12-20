@@ -1,0 +1,70 @@
+
+[light_sources]
+	water_sensitive_check = true
+	block_entities = true
+	entities = true
+	self = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				chicken = true
+				axolotl = true
+				bee = true
+				cow = true
+				fox = true
+				pig = true
+				slime = true
+				skeleton = true
+				bat = true
+				zombie = true
+				drowned = true
+				sheep = true
+				player = true
+				dolphin = true
+				item = true
+				villager = true
+				wolf = true
+				salmon = true
+				tnt_minecart = true
+				zombie_villager = true
+				polar_bear = true
+				horse = true
+				cave_spider = true
+				glow_squid = true
+				witch = true
+				cod = true
+				squid = true
+				spider = true
+				creeper = true
+				enderman = true
+
+			[light_sources.settings.entities.alexsmobs]
+				flying_fish = true
+				cockroach = true
+				grizzly_bear = true
+				centipede_body = true
+				catfish = true
+				centipede_head = true
+				tasmanian_devil = true
+				fly = true
+				centipede_tail = true
+				frilled_shark = true
+				bison = true
+				terrapin = true
+
+			[light_sources.settings.entities.mekanismadditions]
+				baby_enderman = true
+				baby_creeper = true
+				baby_skeleton = true
+
+			[light_sources.settings.entities.quark]
+				forgotten = true
+				toretoise = true
+				stoneling = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+

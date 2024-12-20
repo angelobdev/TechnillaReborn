@@ -1,0 +1,15 @@
+.vscode/
+cachedImages/
+crash-reports/
+downloads/
+journeymap/data/
+local/
+logs/
+modernfix/
+mods/
+saves/
+
+.curseclient
+minecraftinstance.json
+o_prof
+user*.json
